@@ -4,6 +4,8 @@
 
 ### In Proceedings of the Machine Learning for Health symposium, PMLR, 2023
 
+## Usage
+
 Run the following Python script to convert ECG signals into images
 
 ```python ecg_extract_lead_image.py --style=grid --method=gaf,rp,mtf --output_path=data/output/abnormalPTB-XL_Grid```
