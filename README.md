@@ -2,6 +2,8 @@
 
 ## [Automated Cardiovascular Record Retrieval by Multimodal Learning between Electrocardiogram and Clinical Report](https://arxiv.org/abs/2304.06286)
 
+### In Proceedings of the Machine Learning for Health symposium, PMLR, 2023
+
 Run the following Python script to convert ECG signals into images
 
 ```python ecg_extract_lead_image.py --style=grid --method=gaf,rp,mtf --output_path=data/output/abnormalPTB-XL_Grid```
