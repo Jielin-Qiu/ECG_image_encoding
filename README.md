@@ -1,6 +1,6 @@
 # ECG_image_encoding
 
-## [Automated Cardiovascular Record Retrieval by Multimodal Learning between Electrocardiogram and Clinical Report]([https://arxiv.org/abs/2212.08044](https://arxiv.org/abs/2304.06286))
+## [Automated Cardiovascular Record Retrieval by Multimodal Learning between Electrocardiogram and Clinical Report]([https://arxiv.org/abs/2304.06286])
 
 Run the following Python script to convert ECG signals into images
 
